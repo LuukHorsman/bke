@@ -1,0 +1,172 @@
+        
+            /*#button1{*/
+            /*    border-right:solid black 4px;*/
+            /*    border-bottom:solid black 4px;*/
+            /*}*/
+            /*#button2{*/
+            /*    border-right:solid black 4px;*/
+            /*    border-left:solid black 4px;*/
+            /*    border-bottom:solid black 4px;*/
+            /*}*/
+            /*#button3{*/
+            /*    border-left:solid black 4px;*/
+            /*    border-bottom:solid black 4px;*/
+            /*}*/
+            /*#button4{*/
+            /*    border-right:solid black 4px;*/
+            /*    border-bottom:solid black 4px;*/
+            /*    border-top:solid black 4px;*/
+            /*}*/
+            /*#button5{*/
+            /*    border:solid black 4px;*/
+            /*}*/
+            /*#button6{*/
+            /*    border-left:solid black 4px;*/
+            /*    border-bottom:solid black 4px;*/
+            /*    border-top:solid black 4px;*/
+            /*}*/
+            /*#button7{*/
+            /*    border-right:solid black 4px;*/
+            /*    border-top:solid black 4px;*/
+                
+            /*}*/
+            /*#button8{*/
+            /*    border-left:solid black 4px;*/
+            /*    border-top:solid black 4px;*/
+            /*    border-right:solid black 4px;*/
+            /*}*/
+            /*#button9{*/
+            /*    border-left:solid black 4px;*/
+            /*    border-top:solid black 4px;*/
+            /*}*/
+            
+            /*table, tr, td, button{*/
+            /*    margin:0;*/
+            /*    border-collapse:collapse;*/
+            /*}*/
+            /*.Buttons:click{*/
+            /*    border:none;*/
+            /*}*/
+            
+            /*#container{*/
+            /*    width:100%;*/
+            /*    margin:auto;*/
+            /*    border:solid black 2px;*/
+            /*}*/
+            
+            
+            /*#header{*/
+            /*    width:90%;*/
+            /*    height:100px;*/
+            /*    font-size:100%;*/
+            /*    text-align:center;*/
+            /*    margin:auto;*/
+            /*}*/
+            /*#content{*/
+            /*    width:90%;*/
+            /*    margin:auto;*/
+            /*}*/
+            /*#keuzeMenu{*/
+            /*    height:600px;*/
+            /*    margin-top:10%;*/
+            /*    width:30%;*/
+            /*    float:right;*/
+            /*    margin-right:5%;*/
+            /*    border:solid black 2px;*/
+            /*}*/
+            
+            /*#PvP, #PCMakkelijk, #PCMoeilijk{*/
+            /*    margin-top:15%;*/
+            /*    border:solid black 2px;*/
+            /*    font-size:150%;*/
+            /*}*/
+            /*.midden{*/
+            /*    text-align:center;*/
+            /*    padding:15px;*/
+            /*    width:75%;*/
+            /*    margin:auto;*/
+            /*}*/
+            /*#spel{*/
+            /*    float:left;*/
+            /*    border:solid black 2px;*/
+            /*    margin-left:15%;*/
+            /*    margin-top:4.8%;*/
+            /*}*/
+            /*.Buttons{*/
+            /*    border:none;*/
+            /*    font-size:300%;*/
+            /*    font-weight:bolt;*/
+            /*    background:none;*/
+            /*    width:200px;*/
+            /*    height:200px;*/
+            /*}*/
+            /*#VSWHAT{*/
+            /*    font-size:200%;*/
+            /*    text-align:center;*/
+            /*    width:400px;*/
+            /*    margin-left:auto;*/
+            /*    margin-right:auto;*/
+            /*    margin-bottom:6.5%;*/
+            /*}*/
+            /*#speler1, #speler2{*/
+            /*    margin:auto;*/
+            /*}*/
+            /*.hidden{*/
+            /*    display:none;*/
+            /*}*/
+            /*.middeninput{*/
+            /*    border-radius:25px;*/
+            /*    padding:10px;*/
+            /*    width:100%;*/
+            /*    font-size:200%;*/
+            /*    margin:auto;*/
+            /*    margin-top:10%;*/
+            /*}*/
+            /*.middeninput:focus{*/
+            /*    outline:none;*/
+            /*}*/
+            /*#startgame{*/
+            /*  border-radius:20px;    */
+            /*  margin-top:10%;*/
+            /*  width:100%;*/
+            /*  height:70px;*/
+            /*  background-color:blue;*/
+            /*}*/
+            /*#inputdiv{*/
+            /*    width:70%;*/
+            /*    margin:auto;*/
+            /*}*/
+            /*.question{*/
+            /*    font-size:200%;*/
+            /*}*/
+            /*.info{*/
+            /*    text-align:center;*/
+            /*    padding:15px;*/
+            /*    width:75%;*/
+            /*    margin:auto;*/
+            /*    font-size:125%;*/
+            /*}*/
+            /*#opnieuwSpelen{*/
+            /*    width:80%;*/
+                
+            /*    background-color:w;*/
+            /*    margin:auto;*/
+            /*    z-index:9999;*/
+                
+            /*    margin-left: 10%;*/
+            /*    position:absolute;*/
+            /*}*/
+            /*#opnieuwSpelen p{*/
+            /*    font-size:500%;*/
+            /*    text-align:center;*/
+            /*    background-color:red;*/
+               
+            /*}*/
+            /*#container{*/
+            /*    z-index:-1;*/
+            /*}*/
+            /*#start_text{*/
+            /*    text-align:center;*/
+            /*    font-size:200%;*/
+            /*    padding-top:3%;*/
+            /*}*/
